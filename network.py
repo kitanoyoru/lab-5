@@ -1,5 +1,5 @@
 """
-Рутковский А.М. 121703
+Колтович Д.А. 121702
 
 Вариант 2: сеть Хопфилда с непрерывным состоянием и дискретным временем в синхронном режиме.
  - метод дельта-проекций
@@ -8,6 +8,7 @@
 # Ссылки на источники:
 # https://numpy.org/doc/2.1/reference/index.html
 # https://github.com/iit-students-charity/mrz5-2/blob/master/main.py
+# https://github.com/kitanoyoru/lab-5
 
 """
 import random
